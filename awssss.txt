@@ -1,0 +1,42 @@
+Në këtë prezantim, do të flas për integrimin e teknologjisë AWS me Node.js dhe për përfitimet e përdorimit të cloud për aplikacionet tuaja."
+Shpjego secilën pikë kryesore.
+"AWS ka revolucionarizuar menaxhimin e burimeve kompjuterike."
+Shpjego se AWS është një shërbim cloud i fuqishëm që ofron burime të shkallëzueshme 
+për përpunim, ruajtje, dhe shërbime të tjera për aplikacionet moderne.
+"Integrimi me Node.js ofron aplikacione cloud-native të fuqishme dhe me kosto efektive."
+Thekso që Node.js, kur përdoret me AWS, 
+krijon aplikacione që mund të menaxhohen lehtësisht dhe që përdorin burimet e cloud
+ në mënyrë më efektive.
+
+2 sjlljd
+
+Tani do të flasim për shërbimet kryesore të AWS dhe si ato ndihmojnë në zhvillimi
+n e aplikacioneve cloud-native."
+Elastic Compute Cloud (EC2): Hostim fleksibël dhe i shkallëzueshëm."
+Shpjego që EC2 është shërbimi kryesor për hostimin e aplikacioneve,
+ dhe siguron fleksibilitet për të rritur ose zvogëluar burimet bazuar në kërkesë.
+"Simple Storage Service (S3): Ruajtje e sigurt dhe e shkallëzueshme."
+S3 përdoret për ruajtjen e të dhënave dhe është një nga shërbimet më të përdorura për ruajtje
+ të sigurt dhe të shkallëzueshme.
+
+Figura  diagramit të EC2 dhe S3 dhe përshkruaj se si këto dy shërbime ndërveprojnë për të siguruar
+ që aplikacionet të funksionojnë pa probleme.
+
+Sllajdi   3
+
+Prezanto përdorimin e Node.js: "Node.js është integruar thellë me AWS për të përmirësuar
+ fleksibilitetin dhe lehtësinë e zhvillimit."
+
+Pikat Kryesore:
+"AWS SDK për Node.js lejon ndërveprimin me shërbimet AWS si Lambda, S3 dhe DynamoDB."
+Shpjego që AWS SDK është një mjet që lejon zhvilluesit të lidhen me shërbime të ndryshme të AWS 
+duke përdorur Node.js.
+"Lambda ekzekuton kod Node.js pa menaxhuar serverët (serverless)."
+Përmend se AWS Lambda lejon që kodet e shkruara në Node.js të ekzekutohen pa patur nevojë për menaxhimin e serverëve, 
+duke ulur kostot dhe kompleksitetin.
+
+Figura/Diagrami: 
+diagramit  tregon Lambdenm  dhe 
+se ky shërbim ekzekuton funksione pa menaxhuar serverë.
+
+
